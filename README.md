@@ -53,10 +53,6 @@ Best cost: 123.45
 #### License
 This project is licensed under the [GPL 3.0 License](LICENSE).
 
-#### Contributions
-Contributions are welcome! Submit issues or pull requests to improve the project.
-
 #### Acknowledgments
-- **Ant Colony Optimization**: Inspired by Marco Dorigo’s pioneering work on ACO algorithms.
-- **TSPLIB**: Used as a standard for vehicle routing problem definitions.
+- **TSPLIB**: Used as a standard for capacitated vehicle routing problem definitions.
 
