@@ -51,7 +51,7 @@ Best cost: 123.45
 - `MaxMinACO_CVRP_VA.c`: Main implementation file.
 
 #### License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL 3.0 License](LICENSE).
 
 #### Contributions
 Contributions are welcome! Submit issues or pull requests to improve the project.
